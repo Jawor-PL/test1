@@ -1,0 +1,68 @@
+﻿body {
+    margin: 5px;
+    padding: 5px;
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    box-sizing: border-box;
+    background-color: whitesmoke
+}
+
+ul{
+
+}
+
+li {
+
+}
+
+p {
+
+}
+
+h1 {
+
+}
+
+h2 {
+
+}
+.navigation-box {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    background-color: whitesmoke;
+    width: 600px;
+    margin-left: 100px;
+    padding: 3px;
+    text-align: center;
+    position: fixed;
+    display: block;
+    background-clip: padding-box;
+}
+
+.navigation {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    width: 120px;
+    height: 40px;
+    padding: 10px 0 0 0;
+    text-align: center;
+    display: inline-block;
+    font-size: 20px;
+    font-color: black;
+}
+
+.navigation:hover {
+    background-color: darkslategray;
+}
+
+.content {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    text-align: left;
+    margin-top: 120px;
+    position: center;
+}
+
+.stopka {
+    border: 2px solid rgba(0, 0, 0, 0.3);
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+    position: sticky;
+}
